@@ -1,0 +1,22 @@
+{
+  "name": "osu-collections-manager",
+  "version": "1.0.0",
+  "description": "A desktop application that allows you to manage your song collections for the rhythm game Osu!.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaemonSpelledWrong/Osu-Collections-Manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaemonSpelledWrong/Osu-Collections-Manager/issues"
+  },
+  "homepage": "https://github.com/DaemonSpelledWrong/Osu-Collections-Manager#readme",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  }
+}
